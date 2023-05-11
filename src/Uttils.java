@@ -32,7 +32,7 @@ public class Uttils {
         try {
             Scanner sc=new Scanner(f);
             while(sc.hasNextLine())
-                list.add(sc.nextLine());
+                list.add(sc.nextLine());  //
 
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
