@@ -1,8 +1,8 @@
+package data;
+
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashSet;
-import java.util.Scanner;
 
 public class FileDemo {
     public static void main(String[] args) {
@@ -20,9 +20,9 @@ public class FileDemo {
         //append mode
         //rewrite mode
 
-//        Uttils.writeToFile(fileName,"this is second line of text");
-//        ArrayList<String>list=Uttils.readFromFile(fileName);
-// //       ArrayList<String>list=Uttils.readUsingScanner(fileName);
+//        data.Uttils.writeToFile(fileName,"this is second line of text");
+//        ArrayList<String>list=data.Uttils.readFromFile(fileName);
+// //       ArrayList<String>list=data.Uttils.readUsingScanner(fileName);
 //        System.out.println(list);
 
 
