@@ -1,0 +1,4 @@
+this is input sentence 1
+this is input sentence 2
+this is input sentence 3
+This line was added by Java.
